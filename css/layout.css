@@ -540,12 +540,12 @@ ul#nav li.current a { color: #C0C0C0	; }
 }
 .popup-modal .description-box p {
 	font: 14px/24px 'opensans-regular', sans-serif;
-   color: black;
+   color: #A1A1A1;
    margin-bottom: 12px;
 }
 .popup-modal .description-box .categories {
    font: 11px/21px 'opensans-light', sans-serif;
-  color: #2B2B2B;
+  color: black;
    text-transform: uppercase;
    letter-spacing: 2px;
    display: block;
